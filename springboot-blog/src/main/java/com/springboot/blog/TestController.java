@@ -10,6 +10,7 @@ public class TestController {
 
 	@RequestMapping("/index")
 	public @ResponseBody String testRead() {
+		System.out.println("123123123");
 		return "小范好猛";
 	}
 
