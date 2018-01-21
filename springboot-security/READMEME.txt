@@ -1,0 +1,3 @@
+創建表
+
+CREATE DARABASE blog DEFAULT CHARSET utf8 COLLATE utf8_general_ci
